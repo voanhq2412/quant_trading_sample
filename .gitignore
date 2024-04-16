@@ -1,0 +1,6 @@
+*.csv
+*.html
+*.pkl
+__pycache__*
+.ipynb_checkpoints*
+app/slack.py

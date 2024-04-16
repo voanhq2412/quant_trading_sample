@@ -1,1 +1,1 @@
-# quant_trading_sample
+# quant_trading
